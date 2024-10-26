@@ -1,4 +1,4 @@
-# Laravel 10 Blade 模板靜態分析
+# Laravel 11 Blade 模板靜態分析
 
 引入 tomasvotruba 的 bladestan 套件來擴增 Blade 模板靜態分析，可以對程式碼進行嚴格的語法檢測，儘量將程式碼執行錯誤率降到最低。
 
@@ -24,5 +24,5 @@ $ ./vendor/bin/phpstan analyse {目錄，例如：resources}
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/ZDIkGCn.png)
+![](https://i.imgur.com/437Pq8x.png)
 > 執行二進位制檔案檢查
